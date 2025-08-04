@@ -12,7 +12,7 @@
 </p>
 
 ## 📍 Sobre mim  
-- 🎓 Estudante do **2º período de Ciência de Dados**
+- 🎓 Estudante de **Ciência de Dados**
 - 💻 Entusiasta de **programação**
 - 📘 Atualmente focado em **C++ e Python**
 - 🧠 Explorando **Data Science**
@@ -20,8 +20,7 @@
 
 ## 🌐 Onde me encontrar?
 
-📧 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-e-silva-264645354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-🗂️ **Portfólio:** *em construção 🚧*  
+📧 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-e-silva-264645354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)   
 
 ## 🔧 Skills  
 
