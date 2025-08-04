@@ -6,7 +6,7 @@
 
 <!-- Animação-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=2000&color=58A0C8&center=true&vCenter=true&width=650&lines=Estudante+de+Ciência+de+Dados+📊;Transformando+ideias+em++códigos+💡;Small+steps,+big+dreams+🌟&repeat=true">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=2000&color=58A0C8&center=true&vCenter=true&width=650&lines=Graduando+em+Ciência+de+Dados+📊;Transformando+ideias+em++códigos+💡;Small+steps,+big+dreams+🌟&repeat=true">
 </p>
 
 ## 📍 Sobre mim  
