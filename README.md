@@ -12,7 +12,7 @@
 </p>
 
 ## 📍 Sobre mim  
-- 🎓 Estudante de **Ciência de Dados**
+- 🎓 Estudante de **Ciência de Dados** na Universidade Federal de Minas Gerais
 - 💻 Entusiasta de **programação**
 - 📘 Atualmente focado em **C++ e Python**
 - 🧠 Explorando **Data Science**
