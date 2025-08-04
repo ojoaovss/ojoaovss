@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=2000&color=58A0C8&center=true&vCenter=true&width=650&lines=Graduando+em+Ciência+de+Dados+📊;Transformando+ideias+em++códigos+💡;Small+steps,+big+dreams+🌟&repeat=true">
 </p>
 
-<!-- LINHA DECORATIVA -->
+<!-- Linha -->
 <hr style="border: 1px solid #58A0C8; margin: 20px 0;">
 
 ## 📍 Sobre mim  
