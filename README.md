@@ -16,11 +16,11 @@
 </p>
 
 ## 📍 Sobre mim  
-- 🎓 Estudante de **Ciência de Dados** na **Universidade Federal de Minas Gerais**
-- 💻 Entusiasta de **programação**
+- 🎓 Estudante de **Ciência de Dados** na **Universidade Federal de Minas Gerais (UFMG)**
+- 💻 Entusiasta de **Cibersegurança** , **Identidade Digital** e **Inteligência Artificial**
 - 📘 Atualmente focado em **C++ e Python**
 - 🧠 Explorando **Data Science**
-- 🚀 Sempre buscando aprender algo novo todos os dias 😊
+- 🚀 Sempre buscando aprender algo novo todos os dias
 
 ## 🌐 Onde me encontrar?
 
