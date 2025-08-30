@@ -11,7 +11,7 @@
 <!-- Animação-->
 <p>
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=2000&color=58A0C8&width=650&lines=Graduando+em+Ciência+de+Dados+📈;Transformando+ideias+em++códigos+💡;Small+steps,+big+dreams+🪐&repeat=true">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=2000&color=58A0C8&width=650&lines=Graduando+em+Ciência+de+Dados;Giving+a+voice+to+data!;Curiosity-driven&repeat=true">
 </div>
 </p>
 
