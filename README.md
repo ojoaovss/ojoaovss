@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/183911547-567e85c1-e35b-4861-8079-5091d32906e3.gif" width="100%" height="100" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJoNzZ6bndpYW00Y2t6aTJxcHRnZTV6dWJteW5mOTF1dHQ0ajFsaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8w61HSu6xQjoa2NzKN/giphy.gif" width="100%" height="120" style="object-fit: cover; border-radius: 10px;">
 </div>
 
 <br/>
 
 <h1 align="left" style="font-family: 'JetBrains Mono', monospace; color: #58A0C8;">
-  Olá, seja bem-vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Olá, seja bem-vindo! <img src="https://media.giphy.com/media/hvRJCLFzcuHTM/giphy.gif" width="30px">
 </h1>
 
 <p align="left">
@@ -28,7 +28,7 @@
 
 <h3 align="left" style="color: #58A0C8; font-family: 'JetBrains Mono', monospace;">🌐 Onde me encontrar</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://linkedin.com/in/joaovses" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" target="_blank" />
   </a>
 </p>
@@ -47,5 +47,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/183911547-567e85c1-e35b-4861-8079-5091d32906e3.gif" width="100%" height="60" style="object-fit: cover; border-radius: 10px; transform: rotate(180deg);">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJoNzZ6bndpYW00Y2t6aTJxcHRnZTV6dWJteW5mOTF1dHQ0ajFsaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8w61HSu6xQjoa2NzKN/giphy.gif" width="100%" height="60" style="object-fit: cover; border-radius: 10px; transform: rotate(180deg);">
 </div>
