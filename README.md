@@ -1,16 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJoNzZ6bndpYW00Y2t6aTJxcHRnZTV6dWJteW5mOTF1dHQ0ajFsaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8w61HSu6xQjoa2NzKN/giphy.gif" width="100%" height="120" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A0C8&height=120&section=header&width=100%&animation=fadeIn">
 </div>
 
-<br/>
-
 <h1 align="left" style="font-family: 'JetBrains Mono', monospace; color: #58A0C8;">
-  Olá, seja bem-vindo! <img src="https://media.giphy.com/media/hvRJCLFzcuHTM/giphy.gif" width="30px">
+  Olá, seja bem-vindo! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 </h1>
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A0C8&width=650&lines=Graduando+em+Ciência+de+Dados;Giving+a+voice+to+data!;Curiosity-driven+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A0C8&width=650&lines=Graduando+em+Ciência+de+Dados;Giving+a+voice+to+data!;Curiosity-driven+developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,5 +45,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJoNzZ6bndpYW00Y2t6aTJxcHRnZTV6dWJteW5mOTF1dHQ0ajFsaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8w61HSu6xQjoa2NzKN/giphy.gif" width="100%" height="60" style="object-fit: cover; border-radius: 10px; transform: rotate(180deg);">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A0C8&height=100&section=footer&width=100%&animation=fadeIn">
 </div>
