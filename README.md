@@ -1,49 +1,51 @@
-<table style="border-collapse: collapse; max-width: 800px;">
-  <tr>
-    <td style="padding: 15px; text-align: center; vertical-align: middle;">
-      <img src="https://github.com/ojoaovss/ojoaovss/blob/main/avatar.gif" 
-           width="100" 
-           style="border-radius: 50%; display: block; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);">
-    </td>
-    <td style="padding: 15px; vertical-align: middle;">
-      <h1 style="
-          margin: 0;
-          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-          color: #1E90FF;
-          font-size: 36px;
-      ">
-        Olá, seja bem-vindo ao meu GitHub!
-      </h1>
-    </td>
-  </tr>
-</table>
-
-<p>
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=400&size=28&pause=2000&color=58A0C8&width=650&lines=Graduando+em+Ciência+de+Dados;Giving+a+voice+to+data!;Curiosity-driven&repeat=true">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/25181517/183911547-567e85c1-e35b-4861-8079-5091d32906e3.gif" width="100%" height="100" style="object-fit: cover; border-radius: 10px;">
 </div>
+
+<br/>
+
+<h1 align="left" style="font-family: 'JetBrains Mono', monospace; color: #58A0C8;">
+  Olá, seja bem-vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A0C8&width=650&lines=Graduando+em+Ciência+de+Dados;Giving+a+voice+to+data!;Curiosity-driven+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
-## 📍 Sobre mim  
-- 🎓 Estudante de **Ciência de Dados** na **Universidade Federal de Minas Gerais (UFMG)**
-- 💻 Entusiasta de **Cibersegurança** , **Identidade Digital** e **Inteligência Artificial**
+<div align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #adbac7;">
+
+- 🎓 Estudante de **Ciência de Dados** na **UFMG**
+- 💻 Entusiasta de **Cibersegurança**, **Identidade Digital** e **IA**
 - 📘 Atualmente focado em **C++ e Python**
 - 🧠 Explorando **Data Science**
-- 🚀 Sempre buscando aprender algo novo todos os dias
+- 🚀 Sempre buscando aprender algo novo
 
-## 🌐 Onde me encontrar?
+</div>
 
-📧 **LinkedIn:** [Clique aqui](http://linkedin.com/in/joaovses)   
+<br/>
 
-## 🔧 Skills and Tools  
-
-<p>
-  <img src="https://img.shields.io/badge/C-1E3A8A?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<h3 align="left" style="color: #58A0C8; font-family: 'JetBrains Mono', monospace;">🌐 Onde me encontrar</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" target="_blank" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A0C8&height=120&section=footer&width=100%"/>
+<h3 align="left" style="color: #58A0C8; font-family: 'JetBrains Mono', monospace;">🔧 Skills and Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+  <img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/25181517/183911547-567e85c1-e35b-4861-8079-5091d32906e3.gif" width="100%" height="60" style="object-fit: cover; border-radius: 10px; transform: rotate(180deg);">
+</div>
