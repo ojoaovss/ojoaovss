@@ -1,49 +1,48 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A0C8&height=120&section=header&width=100%&animation=fadeIn">
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=João%20Silva&fontSize=50&fontColor=67B2D8&fontAlign=20&fontAlignY=35&animation=fadeIn&fontFamily=JetBrains%20Mono" width="100%"/>
 </div>
-
-<h1 align="left" style="font-family: 'JetBrains Mono', monospace; color: #58A0C8;">
-  Olá, seja bem-vindo! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-</h1>
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A0C8&width=650&lines=Graduando+em+Ciência+de+Dados;Giving+a+voice+to+data!;Curiosity-driven+developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=67B2D8&width=600&lines=Estudante+de+Ciência+de+Dados+@+UFMG;Foco+em+Machine+Learning+e+Analytics;Python+%7C+C%2B%2B+%7C+C" alt="Typing SVG" />
   </a>
 </p>
 
-<div align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #adbac7;">
+<div align="left" style="font-family: 'JetBrains Mono', monospace; color: #adbac7;">
+  
+  🚀 <b>Explorando o universo da Ciência de Dados</b><br>
+  🐍 Atualmente focado em aprimorar meu <b>Python</b> e desenvolver habilidades sólidas em <b>Análise de Dados</b>.<br>
+  💡 Também tenho grande interesse nas áreas de <b>Engenharia de Dados</b> e <b>Segurança da Informação</b>.<br><br>
+  
+</div>
 
-- 🎓 Estudante de **Ciência de Dados** na **UFMG**
-- 💻 Entusiasta de **Cibersegurança**, **Identidade Digital** e **IA**
-- 📘 Atualmente focado em **C++ e Python**
-- 🧠 Explorando **Data Science**
-- 🚀 Sempre buscando aprender algo novo
+<br>
+
+<div align="left">
+  <hr style="width:50%; height:2px; border:none; color:#67B2D8; background-color:#67B2D8; margin-left: 0;">
+</div>
+
+<br>
+
+<h3 align="left" style="color: #67B2D8; font-family: 'JetBrains Mono', monospace;">🛠️ Linguagens e Ferramentas</h3>
+
+<div align="left">
+  
+  <img src="https://img.shields.io/badge/C-0F2027?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-0F2027?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python&logoColor=white"/>
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Pandas-0F2027?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-0F2027?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0F2027?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-0F2027?style=for-the-badge&logo=linux&logoColor=white"/>
 
 </div>
 
-<br/>
+<br><br>
 
-<h3 align="left" style="color: #58A0C8; font-family: 'JetBrains Mono', monospace;">🌐 Onde me encontrar</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/joaovses" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" target="_blank" />
-  </a>
-</p>
-
-<h3 align="left" style="color: #58A0C8; font-family: 'JetBrains Mono', monospace;">🔧 Skills and Tools</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-  <img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A0C8&height=100&section=footer&width=100%&animation=fadeIn">
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer&width=100%&animation=fadeIn">
 </div>
