@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=João%20Silva&fontSize=50&fontColor=67B2D8&fontAlign=20&fontAlignY=35&animation=fadeIn&fontFamily=JetBrains%20Mono" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=header&text=João%20Silva&fontSize=50&fontColor=67B2D8&fontAlign=20&fontAlignY=35&animation=fadeIn&fontFamily=JetBrains%20Mono" width="100%"/>
 </div>
 
 <p align="left">
@@ -9,11 +9,9 @@
 </p>
 
 <div align="left" style="font-family: 'JetBrains Mono', monospace; color: #adbac7;">
-  
   🚀 <b>Explorando o universo da Ciência de Dados</b><br>
   🐍 Atualmente focado em aprimorar meu <b>Python</b> e desenvolver habilidades sólidas em <b>Análise de Dados</b>.<br>
-  💡 Também tenho grande interesse nas áreas de <b>Engenharia de Dados</b> e <b>Segurança da Informação</b>.<br><br>
-  
+  💡 Também tenho grande interesse nas áreas de <b>Engenharia de Dados</b> e <b>Segurança da Informação</b>.
 </div>
 
 <br>
@@ -27,22 +25,17 @@
 <h3 align="left" style="color: #67B2D8; font-family: 'JetBrains Mono', monospace;">🛠️ Linguagens e Ferramentas</h3>
 
 <div align="left">
-  
   <img src="https://img.shields.io/badge/C-0F2027?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-0F2027?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Pandas-0F2027?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <br> <img src="https://img.shields.io/badge/Pandas-0F2027?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-0F2027?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0F2027?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-0F2027?style=for-the-badge&logo=linux&logoColor=white"/>
-
 </div>
 
-<br><br>
+<br>
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer&width=100%&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=80&section=footer&width=100%&animation=fadeIn">
 </div>
