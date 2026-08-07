@@ -52,7 +52,3 @@ Focado em análise de dados, Python e R, e apaixonado por resolver problemas com
 </table>
 
 <br>
-
-<div align="center">
-<img src="assets/footer-gradient.svg" width="100%" />
-</div>
