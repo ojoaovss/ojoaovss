@@ -1,41 +1,58 @@
+<div align="center">
+
+<img src="assets/banner-gradient.svg" width="100%" />
+
+</div>
+
+## 👨🏻‍💻 Sobre mim
+
+Olá, sou **João**, estudante de Ciência de Dados na **Universidade Federal de Minas Gerais (UFMG)**.
+Focado em análise de dados, Python e R, e apaixonado por resolver problemas complexos com dados.
+
+### 🔭 Atualmente focado em:
+
+- 📊 Aprofundar **Python** e **R** para análise avançada de dados.
+- 👾 Estudar os fundamentos da **Segurança da Informação** e **Cibersegurança** aplicados a dados.
+
+## 🛠️ Skills & Tools
+
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=header&text=João%20Silva&fontSize=50&fontColor=67B2D8&fontAlign=20&fontAlignY=35&animation=fadeIn&fontFamily=JetBrains%20Mono" width="100%"/>
+
+**Languages**  
+<img src="https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=3399FF" />
+<img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=3399FF" />
+<img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=3399FF" />
+<img src="https://img.shields.io/badge/SQL-121212?style=for-the-badge&logo=postgresql&logoColor=3399FF" />
+<img src="https://img.shields.io/badge/R-121212?style=for-the-badge&logo=r&logoColor=3399FF" />
+
+**Frameworks & Libraries**  
+<img src="https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=3399FF" />
+<img src="https://img.shields.io/badge/NumPy-121212?style=for-the-badge&logo=numpy&logoColor=3399FF" />
+<img src="https://img.shields.io/badge/Jupyter-121212?style=for-the-badge&logo=jupyter&logoColor=3399FF" />
+
+**Tools**  
+<img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=3399FF" />
+<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=3399FF" />
+<img src="https://img.shields.io/badge/VS%20Code-121212?style=for-the-badge&logo=visualstudiocode&logoColor=3399FF" />
+<img src="https://img.shields.io/badge/DBeaver-121212?style=for-the-badge&logo=dbeaver&logoColor=3399FF" />
+
 </div>
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=67B2D8&width=600&lines=Estudante+de+Ciência+de+Dados+@+UFMG;Foco+em+Machine+Learning+e+Analytics;Python+%7C+C%2B%2B+%7C+C" alt="Typing SVG" />
-  </a>
-</p>
+## 🧮 GitHub Stats
 
-<div align="left" style="font-family: 'JetBrains Mono', monospace; color: #adbac7;">
-  🚀 <b>Explorando o universo da Ciência de Dados</b><br>
-  🐍 Atualmente focado em aprimorar meu <b>Python</b> e desenvolver habilidades sólidas em <b>Análise de Dados</b>.<br>
-  💡 Também tenho grande interesse nas áreas de <b>Engenharia de Dados</b> e <b>Segurança da Informação</b>.
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ojoaovss&show_icons=true&hide_border=true&theme=prussian&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ojoaovss&layout=compact&hide_border=true&theme=prussian&langs_count=5" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<div align="left">
-  <hr style="width:50%; height:2px; border:none; color:#67B2D8; background-color:#67B2D8; margin-left: 0;">
-</div>
-
-<br>
-
-<h3 align="left" style="color: #67B2D8; font-family: 'JetBrains Mono', monospace;">🛠️ Linguagens e Ferramentas</h3>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/C-0F2027?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-0F2027?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python&logoColor=white"/>
-  <br> <img src="https://img.shields.io/badge/Pandas-0F2027?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-0F2027?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0F2027?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-0F2027?style=for-the-badge&logo=linux&logoColor=white"/>
-</div>
-
-<br>
-
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=80&section=footer&width=100%&animation=fadeIn">
+<div align="center">
+<img src="assets/footer-gradient.svg" width="100%" />
 </div>
