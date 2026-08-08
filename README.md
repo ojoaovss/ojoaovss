@@ -1,8 +1,10 @@
 <div align="center">
   
-<video src="assets/intro.mp4" width="100%" autoplay loop muted playsinline controls></video>
+<img src="assets/intro.gif" width="100%" />
 
 </div>
+
+<br>
 
 ## 👨🏻‍💻 Sobre mim
 
