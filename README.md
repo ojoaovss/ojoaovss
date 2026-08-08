@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="assets/banner-gradient.svg" width="100%" />
+  
+<video src="assets/intro.mp4" width="100%" autoplay loop muted playsinline controls></video>
 
 </div>
 
