@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.gif" width="100%" alt="Banner" />
+  <img src="./assets/hi.gif" width="100%" alt="Banner" />
 </div>
 
 <br>
@@ -7,12 +7,13 @@
 ## 👨🏻‍💻 Sobre mim
 
 Olá, sou **João**, estudante de Ciência de Dados na **Universidade Federal de Minas Gerais (UFMG)**.
-Focado em análise de dados, Python e R, e apaixonado por resolver problemas complexos com dados.
+Focado em análise de dados e apaixonado por resolver problemas complexos com dados.
 
 ### 🔭 Atualmente focado em:
 
-- 📊 Aprofundar **Python** e **R** para análise avançada de dados.
-- 👾 Estudar os fundamentos da **Segurança da Informação** e **Cibersegurança** aplicados a dados.
+- 📊 **Aprimorar** o uso de Python e R para análise avançada.
+- 🤖 **Desenvolver** modelos de Machine Learning e Inteligência Artificial.
+- 👾 **Investigar** a aplicação da Cibersegurança no universo dos dados.
 
 ## 🛠️ Skills & Tools
 
