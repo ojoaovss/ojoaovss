@@ -44,10 +44,10 @@ Focado em análise de dados e apaixonado por resolver problemas complexos com da
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ojoaovss&show_icons=true&hide_border=true&theme=prussian&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=ojoaovss&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ojoaovss&layout=compact&hide_border=true&theme=prussian&langs_count=5" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ojoaovss&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
